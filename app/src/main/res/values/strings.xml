@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="textName">Vincent</string>
+    <string name="textBtn">View Profile</string>
+    <string name="textProfile">Enter info:\n\nHi my name is Vincent\nI am 20 years old</string>
+</resources>
+
